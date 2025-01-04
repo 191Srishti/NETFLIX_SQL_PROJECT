@@ -193,4 +193,4 @@ GROUP BY 1;
 #### Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
 #### Content Categorization: Categorizing content based on specific keywords helps understand the nature of content available on Netflix.
 
-###This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+### This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
