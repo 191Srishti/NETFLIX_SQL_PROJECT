@@ -14,8 +14,9 @@ Explore and categorize content based on specific criteria and keywords.
 Dataset
 The data for this project is sourced from the Kaggle dataset:
 
-# Dataset Link: Movies Dataset
-# Schema
+## Dataset Link: Movies Dataset
+## Schema
+```sql
 CREATE TABLE NETFLIX_SHOWS
 (
     show_id      VARCHAR(5),
@@ -31,6 +32,7 @@ CREATE TABLE NETFLIX_SHOWS
     listed_in    VARCHAR(250),
     description  VARCHAR(550)
 );
+```
 ##  BUSINESS PROBLEMS AND SOLUTIONS
 ### Q1 COUNT NUMBER OF MOVIES VS TV SHOWS
 ...sql
